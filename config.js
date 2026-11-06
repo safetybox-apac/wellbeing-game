@@ -1,6 +1,6 @@
-// The game duration is fixed at 7 minutes in app.js.
+// The game duration is fixed at 5 minutes in app.js.
 window.GAME_CONFIG = {
-  title: 'SH&W Chapter Matching Game',
+  title: 'Wellbeing Game',
   dataFile: 'cards.csv',
   sampleContent: false
 };
